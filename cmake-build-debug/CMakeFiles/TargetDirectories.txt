@@ -1,0 +1,3 @@
+C:/Users/lucia/CLionProjects/Clase6/cmake-build-debug/CMakeFiles/Clase6.dir
+C:/Users/lucia/CLionProjects/Clase6/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/lucia/CLionProjects/Clase6/cmake-build-debug/CMakeFiles/rebuild_cache.dir
